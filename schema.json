@@ -1,0 +1,12 @@
+{
+  "@context": "[https://schema.org](https://schema.org)",
+  "@type": "ScholarlyArticle",
+  "name": "ergodic-ruin-invariant",
+  "author": {
+    "@type": "Organization",
+    "name": "physics-bounded-systems"
+  },
+  "identifier": "10.5281/zenodo.23561741",
+  "encodingFormat": "text/markdown",
+  "sha256Checksum": "1bac24cab338dea0755616faed1aa7b2066639f9b8d2ca8cef60d42683790f6a"
+}

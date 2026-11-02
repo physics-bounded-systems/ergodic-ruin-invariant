@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23561741.svg)](https://doi.org/10.5281/zenodo.23561741)
+
 # Ergodic Ruin in Unsupervised Multi-Agent Economic Loops: The Inevitable Liquidity Black-Hole of Autonomous Financial Networks
 
 ## Abstract
